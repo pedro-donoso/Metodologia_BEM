@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ced8cd;
+}
+
+/* botones */
+.button{
+background-color: #f90;
+color: #fff;
+text-decoration: none;
+display: inline-block;
+padding: 5px 10px;
+border-radius: 5px;
+}
+
+/* logo */
+.logo{
+  font-weight: bold;
+  color: #fff;
+  font-size: 30px;
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #368a3d;
+  text-decoration: none;
+}
+
+
+/* header */
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+  .header__title{
+
+        }
+
+  .header__menu{
+          
+        }
+
+.menulist{
+  padding: 0;
+  margin: 0;
+  list-style: none; /* quita el punto a la lista */
+  display: flex;
+
+}
+
+        .menulist__item{
+
+        }
+
+        .menulist__link{
+          color: #000;
+          text-decoration: none;
+          padding: 5px 10px; /*arriba abajo / izquierda derecha*/
+          display: inline-block;
+
+        }
+
+
+/* main */
+
+.faq{
+
+}
+
+.faq__title{
+
+}
+
+.faq__list{
+
+}
+
+.faq__question{
+
+}
+
+.faq__answer{
+
+}
+
+/* footer */
+
+.footer{
+background-color: #000;
+color: #fff;
+display: flex;
+}
+
+    .footer__col{
+      width: 25%;
+    }
+
+    .footer__title{
+      color: #f90;
+      padding: 10px 15px;
+      
+    }
+
+    .footer__text{
+      text-align: justify;
+      padding: 10px 15px;
+    }
