@@ -1,4 +1,4 @@
-https://pedro-donoso.github.io/METODOLOGIA_BEM/
+https://pedro-donoso.github.io/Metodologia_BEM/
 
 # METODOLOGIA_BEM
 web responsiva y metodologia BEM
